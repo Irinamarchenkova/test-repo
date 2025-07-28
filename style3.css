@@ -1,0 +1,36 @@
+  .xxsmall{
+            font-size: xx-small;
+        }
+        .xsmall {
+            font-size: xx-large;
+        }
+        .medium {
+            font-size:larger
+        }
+        .xlarge {
+            font-size:smaller
+        }
+        .normal {
+            font-size:medium
+        }
+        .small {
+            font-size:small
+        }
+        .xxlarge {
+            font-size:x-large
+        }
+        .bold {
+            font-weight: bold;
+        }
+        .red {
+            color: red;
+        }
+        .green {
+            color:green
+        }
+        .blueviolet {
+            color: blueviolet;
+        }
+        .blue{
+            color: blue;
+        }
